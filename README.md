@@ -1,6 +1,6 @@
 # Music-Recommendation-System-Spotify
 
-##Description
+**Description**
 This project is a study on the music app,Spotify. Spotify is in the top spot because of Big Data Analytics. Due to its enormous playlist and its discovery weekly suggestion. This study creates a recommender system that will recommend new musical artists to a user based on their listening history.To build our recommendation system we will be using Spark and the collaborative filtering technique.
 
 ###Why Spark?
